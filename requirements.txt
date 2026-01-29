@@ -1,34 +1,40 @@
-# Core ML and Vision Libraries
+# =========================
+# Core ML / Transformers
+# =========================
+--extra-index-url https://download.pytorch.org/whl/cu128
 torch
 torchvision
+torchaudio
 transformers
 accelerate
+sentencepiece
 
-# Image Enhancement (Main)
+# =========================
+# Image Enhancement & Vision
+# =========================
 realesrgan
 basicsr
-
-# Image Enhancement (Face - Optional)
 gfpgan
-
-# Object Detection (for Vehicle Optimization)
 ultralytics
+opencv-python
+scikit-image
 
+# =========================
 # Translation
-argostranslate # We used this in the code examples, not argostranslate
+# =========================
+argostranslate
 
-# Online Reporting
-discord.py # If using the full library, otherwise 'requests' is sufficient for webhooks
-
+# =========================
 # Terminal UI
+# =========================
 inquirer
-tqdm # Added for progress bars
+tqdm
 
+# =========================
 # Utilities
+# =========================
 requests
 numpy
 Pillow
 python-dotenv
-opencv-python # Added for color conversion (needed by manual GFPGAN)
-psutil # Added for memory checks
-scikit-image # Added for potential image quality metrics (used in debug logs)
+psutil
