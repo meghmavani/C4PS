@@ -6,7 +6,7 @@
 [![Real-ESRGAN](https://img.shields.io/badge/RealESRGAN-Image%20Upscaling-4b8bbe.svg)](https://github.com/xinntao/Real-ESRGAN)
 [![GFPGAN](https://img.shields.io/badge/GFPGAN-Face%20Restoration-d4a574.svg)](https://github.com/TencentARC/GFPGAN)
 [![Discord](https://img.shields.io/badge/Discord-Webhooks-5865F2.svg)](https://discord.com/)
-[![Translation](https://www.svgrepo.com/show/455407/language-translation.svg)]()
+[![Translation](https://img.shields.io/badge/Translation-Multilingual%20NLP-2ea44f.svg)](https://huggingface.co/docs/transformers/en/tasks/translation)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 
 > A production-grade, modular pipeline for image enhancement, caption generation, and offline multilingual translation. Fully local, GPU-optimized, with optional Discord integration.
