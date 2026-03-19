@@ -37,10 +37,14 @@ MODELS_CONFIG = {
 }
 
 
-def enhance_image(image_path, mode, tile_size, face_enhance): # Signature
+def enhance_image(image_path, mode, tile_size, face_enhance=False, enhance_faces=None):
     """
     Enhances and upscales an image using the Real-ESRGAN model.
     """
+    # Prefer the newer `enhance_faces` keyword when provided by callers.
+    if enhance_faces is not None:
+        face_enhance = enhance_faces
+
     try:
         img_array = np.array(Image.open(image_path).convert('RGB'))
         

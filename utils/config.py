@@ -2,11 +2,14 @@ import os
 from dotenv import load_dotenv
 load_dotenv()
 
+# Set HuggingFace cache directory before any imports
+if not os.environ.get('HF_HOME'):
+    os.environ['HF_HOME'] = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'weights', 'hf')
+
 # --- DIRECTORY CONFIGS ---
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ASSETS_DIR = os.path.join(BASE_DIR, "assets")
 WEIGHTS_DIR = os.path.join(BASE_DIR, "weights")
-ARGOS_PACKAGES_DIR = os.getenv("ARGOS_PACKAGES_DIR")
 
 
 # --- DOWNLOADER CONFIGS ---

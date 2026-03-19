@@ -61,3 +61,15 @@ venv.bak/
 /weights/
 *.jpg
 *.pth
+
+# Generated outputs
+/outputs/*.png
+/outputs/*.jpg
+/outputs/*.jpeg
+
+# Benchmark/compare artifacts
+/compare_outputs/*.png
+/compare_outputs/*.jpg
+/compare_outputs/*.jpeg
+
+#Modified repositories

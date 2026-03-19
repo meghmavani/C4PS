@@ -1,0 +1,27 @@
+en (source): A blue BMW racing on the road.
+ar (marian): سيارة بي إم دبليو زرقاء تسابق على الطريق
+as (indic-nllb): ৰাস্তাত এখন নীলা ৰঙৰ BMW ৰেচিং।
+bn (indic-nllb): রাস্তায় একটি নীল BMW রেসিং।
+de (marian): Ein blauer BMW-Rennen auf der Straße.
+es (marian): Un BMW azul corriendo en la carretera.
+fr (marian): Une BMW bleue qui roule sur la route.
+gu (indic-nllb): રસ્તા પર વાદળી BMW રેસિંગ.
+hi (indic-nllb): सड़क पर एक नीली बीएमडब्ल्यू रेसिंग।
+id (marian): Sebuah BMW biru balap di jalan.
+it (marian): Una BMW blu che corre sulla strada.
+ja (nllb): 青いBMWが道路でレースしている.
+kn (indic-nllb): ರಸ್ತೆಯಲ್ಲಿ ನೀಲಿ BMW ರೇಸಿಂಗ್.
+ko (nllb): 도로에서 파란색 BMW 레이싱.
+ml (indic-nllb): റോഡിൽ ഒരു നീല നിറത്തിലുള്ള BMW റേസിംഗ്.
+mr (indic-nllb): रस्त्यावर निळा बीएमडब्ल्यू रेसिंग.
+nl (marian): Een blauwe BMW racen op de weg.
+or (indic-nllb): ରାସ୍ତାରେ ଏକ ନୀଳ ରଙ୍ଗର BMW ରେସିଂ ।
+pa (indic-nllb): ਸੜਕ 'ਤੇ ਇੱਕ ਨੀਲੀ ਬੀਐਮਡਬਲਯੂ ਰੇਸਿੰਗ.
+pt (nllb): Um BMW azul correndo na estrada.
+ru (marian): Гонка на синий BMW по дороге.
+ta (indic-nllb): வீதியில் ஒரு நீல பிஎம்டபிள்யூ பந்தய.
+te (indic-nllb): రహదారిపై బ్లూ BMW రేసింగ్.
+tr (nllb): Bir mavi BMW yarışması yolda.
+ur (marian): سڑک پر ایک خوبصورت سائیکل دوڑ.
+vi (marian): Một chiếc xe đua trên đường.
+zh (marian): 一辆蓝色宝马在路上赛车
